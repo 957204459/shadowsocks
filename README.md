@@ -1,3 +1,5 @@
+fork on 2015.09.05 lastest version 2.8.2 tag
+
 shadowsocks
 ===========
 
